@@ -5,7 +5,7 @@
 Each folder represents a separate task and includes the relevant files (Excel, Python, screenshots, etc.) and a task-specific README.
 
 ## 📂 Tasks
-- **Task 1**: Excel Interactive Sales Dashboard
+- **First Task**: Excel Interactive Sales Dashboard
 
 ## 📌 Technologies Used
 - Microsoft Excel

@@ -3,7 +3,7 @@
 📊 In this task, I created a dynamic sales dashboard using Excel as part of the Brainwave Matrix internship.
 
 ## 💡 Features
-- Interactive Slicers for filtering by Year, Segment, State, Category, etc.
+- Interactive Slicers for filtering by Year, Segment, State, Category.
 - Multiple Charts: Line, Bar, Pie visualizations.
 - KPIs: Total Sales, Number of Orders, Top-Selling Category, and Product.
 - Answered key business questions using data analysis.
